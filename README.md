@@ -26,7 +26,7 @@ Install dependencies
 To start crawling (to collect data)
 
 ```bash
-  scrapy crawl bot
+  scrapy crawl imdb-bot
 ```
 
   
